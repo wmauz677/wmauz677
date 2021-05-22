@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" padding="20px">
   
 ![Weston's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmauz677&show_icons=true&theme=cobalt)
 
@@ -14,6 +14,8 @@
   
 </div>
 
+<!-- 
 - 🔭 I’m currently working on my mechanical engineering career
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: https://wmauz677.github.io/documentation/
+ -->
