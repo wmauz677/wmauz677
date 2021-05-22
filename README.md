@@ -4,27 +4,16 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="assets/swift.svg"></code>
-<code><img height="30" src="assets/swiftui.svg"></code>
-<code><img height="30" src="assets/xcode.svg"></code>
-<code><img height="30" src="assets/python.svg"></code>
-<code><img height="30" src="assets/html.svg"></code>
-<code><img height="50" src="assets/css.svg"></code>
+<img height="50" src="assets/swift.svg">
+<img height="50" src="assets/swiftui.svg">
+<img height="50" src="assets/xcode.svg">
+<img height="50" src="assets/python.svg">
+<img height="50" src="assets/html.svg">
+<img height="50" src="assets/css.svg">
 <img height="50" src="assets/figma.svg">
   
 </div>
 
-<!--
-**wmauz677/wmauz677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my mechanical engineering career
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: https://wmauz677.github.io/documentation/
