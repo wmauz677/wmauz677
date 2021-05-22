@@ -9,8 +9,8 @@
 <code><img height="30" src="assets/xcode.svg"></code>
 <code><img height="30" src="assets/python.svg"></code>
 <code><img height="30" src="assets/html.svg"></code>
-<code><img height="30" src="assets/css.svg"></code>
-<code><img height="30" src="assets/figma.svg"></code>
+<code><img height="50" src="assets/css.svg"></code>
+<img height="50" src="assets/figma.svg">
   
 </div>
 
