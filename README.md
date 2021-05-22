@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- [![Weston's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmauz677)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmauz677&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmauz677&show_icons=true&theme=cobalt)
 
 
 <!--
