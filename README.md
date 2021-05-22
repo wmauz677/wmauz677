@@ -1,4 +1,4 @@
-<div align="center" padding="20px">
+<div align="center", padding="20px">
   
 ![Weston's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmauz677&show_icons=true&theme=cobalt)
 
