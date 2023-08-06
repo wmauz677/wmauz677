@@ -12,8 +12,6 @@
   
 </div>
 
-<!-- 
 - 🔭 I’m currently working in a environment where I'm applying my skills in mechanical engineering in coordination with my computer science background.
 - 🌱 I’m currently practicing data science, software development, & project engineering
 - 📫 How to reach me: https://wmauz677.github.io/documentation/
- -->
