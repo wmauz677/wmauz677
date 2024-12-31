@@ -2,10 +2,10 @@
 
 **Languages and Tools:**  
 
+<img height="50" src="assets/python.svg">
 <img height="50" src="assets/swift.svg">
 <img height="50" src="assets/swiftui.svg">
 <img height="50" src="assets/xcode.svg">
-<img height="50" src="assets/python.svg">
 <img height="50" src="assets/html.svg">
 <img height="50" src="assets/css.svg">
 <img height="50" src="assets/figma.svg">
